@@ -1,9 +1,21 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
+list-style: none;
   padding: 0;
 }
-h1 {
-  color: #333;
+
+.nav li {
+  margin: 0 10px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+}
+
+section {
+  margin-top: 20px;
+}
+
+footer {
   text-align: center;
+  margin-top: 40px;
 }
