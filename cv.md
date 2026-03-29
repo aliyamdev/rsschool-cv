@@ -9,7 +9,7 @@ Location: Astana, Kazakhstan
 over 10 years experience in IT companies
 
 ## Education
-Bachelor’s Degree as Engineer specialist
+Bachelor’s Degree as Engineer  at the AIPET(AUPET)
 
 ## Work experience and skills
 Worked for IT national companies in Kazakhstan: JSC NIT; JSC Zerde
@@ -18,6 +18,6 @@ Hard skills: html, css
 Soft skills: communication
 
 ## Languages
-Kazakh
-English
-Russian
+Kazakh - native
+English - intermediate, general course at the UEA in Norwich, UK
+Russian - advanced, studied at school
